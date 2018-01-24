@@ -16,5 +16,5 @@ $(function() {
     $("#page-3").fadeOut(1000).css("display", "none");
     $("#page-1").fadeIn(1000).css("display", "block");
     $("#active-contact-icon").fadeIn(1000).attr("src","../Crazy/images/man.svg");
-  });
+  }); 
 });
